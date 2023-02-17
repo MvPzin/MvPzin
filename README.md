@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 👨‍🎓: &nbsp;Sobre mim </h3>
 
 **[ Tornando ideias em realidade ]**
 
