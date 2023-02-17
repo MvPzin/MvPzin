@@ -34,6 +34,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Marcus Vinicius](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-goncalves04/)](https://www.linkedin.com/in/marcus-goncalves04/)
+[![Linkedin: Marcus Vinicius](https://img.shields.io/badge/-Marcus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-goncalves04/)](https://www.linkedin.com/in/marcus-goncalves04/)
 [![Email](https://img.shields.io/badge/-marcus.goncalves04@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcus.goncalves04@hotmail.com)](mailto:marcus.goncalves04@hotmail.com)
 [![GitHub Marcus Vinicius]( https://img.shields.io/github/followers/MvPzin?label=follow&style=social)](https://github.com/MvPzin)
