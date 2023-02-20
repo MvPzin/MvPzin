@@ -1,9 +1,9 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=MvPzin&color=006bed)
 
 <h3> 👨‍🎓: &nbsp;Sobre mim </h3>
 
-**[ Tornando ideias em realidade ]**
+   **[ Tornando ideias em realidade ]**
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Desenvolvimento de Sistemas no <a href="https://www7.fiemg.com.br/senai">Senai Araxá</a>.
