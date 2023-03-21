@@ -7,7 +7,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Desenvolvimento de Sistemas no <a href="https://www7.fiemg.com.br/senai">Senai Araxá</a>.
-- 💼 &nbsp; Trabalhando como Front-end na LYA Group.
+- 💼 &nbsp; Estagiário de Testes de Software na Instale Tecnlogia
+- 💼 &nbsp; Atuando como Front-end na LYA Group.
 - 🌱 &nbsp; Aprendendo mais sobre React e React Native.
 
 <h3> :rocket: &nbsp;Tecnologias </h3>
