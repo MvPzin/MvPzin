@@ -7,8 +7,9 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Desenvolvimento de Sistemas no <a href="https://www7.fiemg.com.br/senai">Senai Araxá</a>.
-- 💼 &nbsp; Estagiário de Testes de Software na Instale Tecnlogia
-- 💼 &nbsp; Atuando como Front-end na LYA Group.
+- 🎓 &nbsp; Cursando Ciência da Computação na <a href="https://uniamerica.br">UniAmerica</a>. 
+- 💼 &nbsp; Auxiliar de Testes de Software na Easymine (Instale Tecnologia)
+- 🎓 &nbsp; Estudando UI/UX
 - 🌱 &nbsp; Aprendendo mais sobre React e React Native.
 
 <h3> :rocket: &nbsp;Tecnologias </h3>
